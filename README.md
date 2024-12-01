@@ -26,15 +26,17 @@ Example:
 
 
 1. Save the resolver script as `dns_resolver.py`.
-2. Run the server using the following command: 
+2. Run the server using the following command:
+
     ```bash
     python3 dns_resolver.py
-3. The DNS server will start and listen on UDP port `5353` by default.
+4. The DNS server will start and listen on UDP port `5353` by default.
 
 
 ## Testing the Resolver
-**Using `dig`
+**Using `dig`**
 You can test the DNS resolver using the `dig` command:
+
     ```bash
     dig @localhost google.com
 
