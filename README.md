@@ -30,7 +30,7 @@ Example:
 
     ```bash
     python3 dns_resolver.py
-4. The DNS server will start and listen on UDP port `5353` by default.
+3. The DNS server will start and listen on UDP port `5353` by default.
 
 
 ## Testing the Resolver
