@@ -43,6 +43,7 @@ You can test the DNS resolver using the `dig` command:
 
     .
     ├── dns_resolver.py    # DNS resolver implementation
+    ├── Makefile           # Makefile for dependencies
     └── README.md          # Project documentation
 
 ## Author
