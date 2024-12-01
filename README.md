@@ -47,6 +47,7 @@ You can test the DNS resolver using the `dig` command:
 
 ## Author
 **Ashkan Tariverdi**
+
 Student Number: `401105753`
 
 ## License
