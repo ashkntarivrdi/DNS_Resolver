@@ -37,11 +37,10 @@ Example:
 **Using `dig`**
 You can test the DNS resolver using the `dig` command:
 
-    ```
     dig @localhost google.com
 
 ## Project Structure
-    ```
+
     .
     ├── dns_resolver.py    # DNS resolver implementation
     └── README.md          # Project documentation
